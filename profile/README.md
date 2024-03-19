@@ -1,12 +1,8 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# ⚛🚀 Конгресс 👩🏻‍💻🧠
+## 📝 Конспекты
+- Теория вероятности, математическая статистика, теория случайных процессов - [pdf](https://github.com/congress-bmstu/stochastic-notes/releases/download/pdf/konspect.pdf), [репо](https://github.com/congress-bmstu/stochastic-notes)
+- Механика сплошной среды - [pdf](https://github.com/congress-bmstu/notes-cm/releases/download/pdf/cm-notes.pdf), [репо](https://github.com/congress-bmstu/notes-cm)
+- Методы оптимизации и вариационное исчисление - [репо](https://github.com/congress-bmstu/notes-variations)
+## 🎓 Файлы к экзаменам
+- Физика - [pdf](https://github.com/congress-bmstu/physics-exam/releases/download/pdf/document.pdf), [репо](https://github.com/congress-bmstu/physics-exam)
+- Уравнения математической физики - [pdf](https://github.com/congress-bmstu/UMF-Exam/releases/download/pdf/document.pdf), [репо](https://github.com/congress-bmstu/UMF-Exam)
