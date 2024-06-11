@@ -9,5 +9,6 @@
 - Уравнения математической физики - [pdf](https://github.com/congress-bmstu/UMF-Exam/releases/download/pdf/document.pdf), [репо](https://github.com/congress-bmstu/UMF-Exam)
 #### 🧌 6 семестр
 - Основы сеточных методов - [репо](https://github.com/congress-bmstu/nets-exam)
+- Методы оптимизации и вариационное исчисление - [репо](https://github.com/congress-bmstu/var-exam)
 ## 🤖 Репы с прогами
 - Методы оптимизации и вариационное исчисление - [репо](https://github.com/congress-bmstu/om_and_vc)
