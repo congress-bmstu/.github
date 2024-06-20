@@ -10,6 +10,6 @@
 #### 🧌 6 семестр
 - Основы сеточных методов - [репо](https://github.com/congress-bmstu/nets-exam)
 - Методы оптимизации и вариационное исчисление - [pdf](https://github.com/congress-bmstu/var-exam/releases/latest/download/movi.pdf), [репо](https://github.com/congress-bmstu/var-exam)
-- Механика сплошной среды - [репо](https://github.com/congress-bmstu/mss-exam)
+- Механика сплошной среды - [pdf](https://github.com/congress-bmstu/mss-exam/releases/latest/download/mss.pdf), [репо](https://github.com/congress-bmstu/mss-exam)
 ## 🤖 Репы с прогами
 - Методы оптимизации и вариационное исчисление - [репо](https://github.com/congress-bmstu/om_and_vc)
