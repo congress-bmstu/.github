@@ -1,6 +1,6 @@
 # ⚛🚀 Конгресс 👩🏻‍💻🧠
 ## 📝 Конспекты
-- Теория вероятности, математическая статистика, теория случайных процессов - [pdf](https://github.com/congress-bmstu/stochastic-notes/releases/download/pdf/konspect.pdf), [репо](https://github.com/congress-bmstu/stochastic-notes)
+- Теория вероятности, математическая статистика, теория случайных процессов, стохастический анализ и стохастические дифференциальные уравнения - [pdf](https://github.com/congress-bmstu/stochastic-notes/releases/download/pdf/konspect.pdf), [репо](https://github.com/congress-bmstu/stochastic-notes)
 - Механика сплошной среды - [pdf](https://github.com/congress-bmstu/notes-cm/releases/download/pdf/cm-notes.pdf), [репо](https://github.com/congress-bmstu/notes-cm)
 - Методы оптимизации и вариационное исчисление - [репо](https://github.com/congress-bmstu/notes-variations)
 ## 🎓 Файлы к экзаменам
